@@ -1,3 +1,3 @@
 # danaabutton.github.io
-<!doctype html>
+<!DOCTYPE html>
 <h1> Dana Button </h1>
